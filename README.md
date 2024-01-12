@@ -39,4 +39,4 @@ Welcome to `Real-Estate Project`, a real estate website where users can sign up,
 1. Clone the repository:
 
    ```bash
-   
+   gh repo clone vikasutf8/Real-Estate-Project
