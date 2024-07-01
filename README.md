@@ -28,16 +28,7 @@ Welcome to `Real-Estate Project`, a real estate website where users can sign up,
 ### IMAGES WEBSITE
  (
 ![Screenshot 2024-01-12 172911](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/e2e15b25-83b6-4af1-aa51-823a8a2c9946)
-)![Screenshot 2024-01-12 172911](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/b83d1e50-2625-4b7f-9aee-70a8bb44b761)
-![Screenshot 2024-01-12 173619](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/1235fbcd-823a-4ec4-9f99-623f970a1a37)
-![Screenshot 2024-01-12 173530](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/8aba793c-c480-40e0-894a-ce647fbbb513)
-![Screenshot 2024-01-12 173513](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/eaceb065-a8af-4fd9-823b-f255c4a1e045)
-![Screenshot 2024-01-12 173344](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/deda45c4-7ad0-4a14-8cd6-7ed952b38833)
-![Screenshot 2024-01-12 173226](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/7f7b8695-9df1-45fd-82e7-d7fef521e2b2)
-![Screenshot 2024-01-12 173054](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/1e0a8338-c6f0-468d-a2a9-e6aa371062dc)
-![Screenshot 2024-01-12 173038](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/ed3b453e-0f61-41cd-837d-9eb494d914e1)
-![Screenshot 2024-01-12 173028](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/35b96383-b2ce-4596-b01c-19593748c2fd)
-![Screenshot 2024-01-12 173006](https://github.com/vikasutf8/Real-Estate-Project/assets/117626243/2f3bb5d0-1e8c-4f6f-ae79-a4e62c3edcd2)
+
 
 
 ## Technologies Used
